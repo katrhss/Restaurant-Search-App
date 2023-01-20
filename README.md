@@ -4,8 +4,8 @@ This application, written in React-Native, displays a list of restaurants in a f
 
 <details>
 <summary>  <h4>How to install and run the app.📲 </h4></summary>
-<p></p>
-<p>You will need the Expo Go app on your mobile device to run the app.</p>
+
+You will need the Expo Go app on your mobile device to run the app.
 
 After cloning the repository open up your terminal of choice and change your directory accordingly. After that continue with the following commands:
 
