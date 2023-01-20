@@ -1,10 +1,11 @@
-### Restaurant Search Application 🍽
+# Restaurant Search Application 🍽
 
 This application, written in React-Native, displays a list of restaurants in a fixed area, in this case, San Jose, using the Yelp API. A maximum of 50 restaurants are categorized based on a price tag determined by the API. After pressing on an image, you'll be taken to a new page that displays more details about the restaurant.
 
 <details>
-<summary> How to install and run the app.📲</summary>
-You will need the Expo Go app on your mobile device to run the app.
+<summary>  <h6>How to install and run the app.📲 </h6></summary>
+<p></p>
+<p>You will need the Expo Go app on your mobile device to run the app.</p>
 
 After cloning the repository open up your terminal of choice and change your directory accordingly. After that continue with the following commands:
 
