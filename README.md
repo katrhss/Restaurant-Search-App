@@ -17,5 +17,5 @@ This application, written in React-Native, displays a list of restaurants in a f
 
 <details>
 <summary>💡Inspiration and Details</summary>
-Inspiration for this repository was a <a href="https://www.udemy.com/course/the-complete-react-native-and-redux-course" target="_blank">Udemy Course</a> I was taking, focusing on React-Native fundamentals. While most of the content was made by following the course's instructions, I added some extra features myself after being done with it, so I could experiment with what I had learned.
+Inspiration for this repository was a <a href="https://www.udemy.com/course/the-complete-react-native-and-redux-course">Udemy Course</a> I was taking, focusing on React-Native fundamentals. While most of the content was made by following the course's instructions, I added some extra features myself after being done with it, so I could experiment with what I had learned.
 </details>
